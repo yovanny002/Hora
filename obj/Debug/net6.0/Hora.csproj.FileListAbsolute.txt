@@ -1,0 +1,15 @@
+C:\Users\yrodriguez\desktop\tarea\bin\Debug\net6.0\Hora.exe
+C:\Users\yrodriguez\desktop\tarea\bin\Debug\net6.0\Hora.deps.json
+C:\Users\yrodriguez\desktop\tarea\bin\Debug\net6.0\Hora.runtimeconfig.json
+C:\Users\yrodriguez\desktop\tarea\bin\Debug\net6.0\Hora.dll
+C:\Users\yrodriguez\desktop\tarea\bin\Debug\net6.0\Hora.pdb
+C:\Users\yrodriguez\desktop\tarea\obj\Debug\net6.0\Hora.csproj.AssemblyReference.cache
+C:\Users\yrodriguez\desktop\tarea\obj\Debug\net6.0\Hora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yrodriguez\desktop\tarea\obj\Debug\net6.0\Hora.AssemblyInfoInputs.cache
+C:\Users\yrodriguez\desktop\tarea\obj\Debug\net6.0\Hora.AssemblyInfo.cs
+C:\Users\yrodriguez\desktop\tarea\obj\Debug\net6.0\Hora.csproj.CoreCompileInputs.cache
+C:\Users\yrodriguez\desktop\tarea\obj\Debug\net6.0\Hora.dll
+C:\Users\yrodriguez\desktop\tarea\obj\Debug\net6.0\refint\Hora.dll
+C:\Users\yrodriguez\desktop\tarea\obj\Debug\net6.0\Hora.pdb
+C:\Users\yrodriguez\desktop\tarea\obj\Debug\net6.0\Hora.genruntimeconfig.cache
+C:\Users\yrodriguez\desktop\tarea\obj\Debug\net6.0\ref\Hora.dll
